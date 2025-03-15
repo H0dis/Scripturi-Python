@@ -1,0 +1,16 @@
+Conversie Tracklist
+
+Acest program convertește tracklist-urile dintr-un format brut într-unul standardizat, identificând piesele și artiștii invitați. Se bazează pe reguli de formatare și regex pentru a extrage și rearanja informațiile.
+
+Interfață
+Două zone de text: una pentru input (stânga) și una pentru output (dreapta), fiecare într-un cadru evidențiat cu auriu.
+Buton „Procesează”: poziționat central, aplică conversia asupra textului introdus.
+
+Logica programului
+Preia tracklist-ul din zona de input.
+Caută linii care conțin numere de pistă și le identifică ca titluri de melodii.
+Detectează artiștii invitați menționați după „featuring” sau variante similare.
+Reformatează tracklist-ul eliminând timpii și aplicând formatul corect pentru featuring.
+Afișează rezultatul în zona de output.
+
+programul este util pentru organizarea tracklist-urilor extrase din surse variate, oferind un format curat și uniform.
