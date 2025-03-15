@@ -1,0 +1,13 @@
+Generare Linkuri Spotify pentru Albume
+Acest script caută albumele dintr-un fișier Excel pe Spotify și adaugă linkurile corespunzătoare.
+
+Citește un fișier Excel cu coloanele Artist și Album.
+Caută fiecare album pe Spotify folosind API-ul oficial.
+Adaugă linkul albumului în coloana Spotify Link.
+Salvează rezultatele într-un fișier Excel nou.
+
+Configurare
+Înlocuiește client_id și client_secret cu datele tale din Spotify Developer Dashboard.
+Modifică file_path pentru a indica locația fișierului Excel de procesat.
+
+
