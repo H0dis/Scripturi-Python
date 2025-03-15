@@ -1,0 +1,18 @@
+Editor Viniluri
+Un tool simplu care aplică automat imagini pe șabloane gata definite, detectând zona albă și ajustându o imagine a unui album.
+
+Utilizare
+
+Rulează scriptul, selectează șablonul și imaginea, previzualizează și salvează rezultatul.
+
+Funcționalitatea butoanelor
+
+Încarcă Sablon – Selectează un fișier sablon (față/spate).
+
+Încarcă Poza – Selectează imaginea care va fi aplicată pe șablon.
+
+Salvează – Salvează rezultatul final într-un fișier.
+
+Fată/Spate – Alege tipul de sablon utilizat.
+
+Extinde – Activează opțiunea de a mări zona de aplicare a imaginii pe șab
