@@ -1,0 +1,13 @@
+Aplicare Logo pe Imagini
+
+Script care aplică automat un logo pe imaginile "front" și "back" dintr-un folder. Selectezi imaginile, logo-ul și folderul de ieșire, iar scriptul face restul. Suportă transparență și previzualizare.
+
+Necesități
+
+Python 3
+
+OpenCV (pip install opencv-python)
+
+Utilizare
+
+Rulează scriptul, selectează fișierele și lasă-l să-și facă treaba.
